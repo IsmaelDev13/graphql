@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Jorge",
+      "phone": "652398329",
+      "street": "Calle Frontend",
+      "city": "Barcelona",
+      "id": "1234"
+    },
+    {
+      "name": "Alvaro",
+      "phone": "6523498329",
+      "street": "Calle Testing",
+      "city": "Madrid",
+      "id": "134"
+    },
+    {
+      "name": "Arturo",
+      "street": "Calle Backend",
+      "city": "Galicia",
+      "id": "234"
+    }
+  ]
+}
